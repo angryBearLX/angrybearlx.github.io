@@ -1,0 +1,23 @@
+{
+  "name": "angrybearlx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angryBearLX/angrybearlx.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angryBearLX/angrybearlx.github.io/issues"
+  },
+  "homepage": "https://github.com/angryBearLX/angrybearlx.github.io#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
